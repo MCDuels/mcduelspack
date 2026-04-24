@@ -1,0 +1,15 @@
+{
+    "pack": {
+        "pack_format": 34,
+        "supported_formats": {
+            "min_inclusive": 15,
+            "max_inclusive": 999
+        },
+        "description": [
+            "",
+            {"text": "MCDuels Resource Pack", "bold": true, "color": "#E54040"},
+            {"text": "\n"},
+            {"text": "Custom Ranks & Sounds", "color": "#4068E5"}
+        ]
+    }
+}
