@@ -1,0 +1,12 @@
+{
+  "music.mcduelstheme": {
+    "sounds": [
+      {
+        "name": "mcduels:mcduelstheme",
+        "replace": true,
+        "weight": 10000000,
+        "pitch": 1
+        }
+    ]
+  }
+}
