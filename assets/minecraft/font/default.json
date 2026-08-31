@@ -1,0 +1,354 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/diamond.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE800"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/dueler.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE801"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/gold.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE802"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/hdiamond.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE803"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/hdueler.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE804"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/hgold.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE805"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/hiron.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE806"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/hsilver.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE807"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/iron.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE808"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/silver.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE809"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/diamond_axe.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE80A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/dueler_axe.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE80B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/gold_axe.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE80C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/iron_axe.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE80D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/silver_axe.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE80E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/diamond_nethop.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE80F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/dueler_nethop.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE810"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/gold_nethop.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE811"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/iron_nethop.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE812"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/silver_nethop.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE813"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/diamond_pot.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE814"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/dueler_pot.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE815"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/gold_pot.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE816"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/iron_pot.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE817"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/silver_pot.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE818"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/diamond_smp.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE819"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/dueler_smp.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE81A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/gold_smp.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE81B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/iron_smp.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE81C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/silver_smp.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE81D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/diamond_sword.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE81E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/dueler_sword.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE81F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/gold_sword.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE820"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/iron_sword.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE821"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/silver_sword.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE822"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/diamond_uhc.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE823"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/dueler_uhc.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE824"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/gold_uhc.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE825"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/iron_uhc.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE826"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/silver_uhc.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE827"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/diamond_vanilla.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE828"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/dueler_vanilla.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE829"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/gold_vanilla.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE82A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/iron_vanilla.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE82B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/silver_vanilla.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE82C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/diamond_spear_mace.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE82D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/dueler_spear_mace.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE82E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/gold_spear_mace.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE82F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/iron_spear_mace.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE830"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/silver_spear_mace.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE831"]
+        }
+    ]
+}
