@@ -40,3 +40,13 @@ test('ships the icons.yml list the plugins read', () => {
     assert.match(exported, new RegExp(`^  ${name}: "\\\\u${code}"$`, 'm'), name);
   }
 });
+
+test('ships the lobby scoreboard logo as a large glyph exported as <icon:logo>', () => {
+  const logo = allProviders.find(provider => provider.file === 'mcduels:font/logo.png');
+  assert.ok(logo, 'logo provider');
+  assert.equal(logo.chars[0].codePointAt(0), 0xE880);
+  assert.ok(logo.ascent <= logo.height);
+  assert.ok(fs.existsSync(path.join(packRoot, 'assets/mcduels/textures/font/logo.png')));
+  const exported = fs.readFileSync(path.join(packRoot, 'icons.yml'), 'utf8');
+  assert.match(exported, /^  logo: "\\uE880"$/m);
+});

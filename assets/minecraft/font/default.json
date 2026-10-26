@@ -352,6 +352,13 @@
         },
         {
             "type": "bitmap",
+            "file": "mcduels:font/logo.png",
+            "ascent": 16,
+            "height": 20,
+            "chars": ["\uE880"]
+        },
+        {
+            "type": "bitmap",
             "file": "mcduels:icons/anvil.png",
             "ascent": 7,
             "height": 8,
