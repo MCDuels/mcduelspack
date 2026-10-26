@@ -18,3 +18,9 @@ rewrites the font and `icons.yml`. Copy the new `icons:` entries into the plugin
 
 `tools/src/draw_new_icons.py` draws the MCDuels-made icons (kit items, ping bars, status
 dots, arrows) from text masks; the rest come from the CushionMC menu icon set.
+
+## Logo
+
+`assets/mcduels/textures/font/logo.png` is the MCDuels title art as one large glyph,
+`<icon:logo>` (U+E880, 20 px tall). The lobby sidebar uses it as its title. It is not in the
+icons folder, so `generate_icons.py` leaves its font provider alone and only adds it to `icons.yml`.
