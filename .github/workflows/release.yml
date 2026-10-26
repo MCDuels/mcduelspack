@@ -1,0 +1,39 @@
+# Builds mcduelspack.zip and publishes it as the latest GitHub release.
+# Servers can point resource-pack at the stable link:
+#   https://github.com/MCDuels/mcduelspack/releases/latest/download/mcduelspack.zip
+# and set resource-pack-sha1 to the hash printed in the release notes.
+name: Release pack
+
+on:
+  push:
+    branches: [main]
+    paths: ['pack.mcmeta', 'pack.png', 'assets/**']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build zip
+        run: |
+          files="pack.mcmeta assets"
+          [ -f pack.png ] && files="$files pack.png"
+          zip -qr -X mcduelspack.zip $files
+          echo "SHA1=$(sha1sum mcduelspack.zip | cut -d' ' -f1)" >> "$GITHUB_ENV"
+
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tag="pack-$(date -u +%Y%m%d)-${GITHUB_SHA::7}"
+          gh release create "$tag" mcduelspack.zip \
+            --title "MCDuels pack $tag" \
+            --latest \
+            --notes "resource-pack-sha1=${SHA1}
+
+          resource-pack=https://github.com/${GITHUB_REPOSITORY}/releases/latest/download/mcduelspack.zip"

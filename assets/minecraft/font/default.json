@@ -349,6 +349,629 @@
             "ascent": 8,
             "height": 8,
             "chars": ["\uE831"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/anvil.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE900"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/arrow_down.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE901"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/arrow_right.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE902"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/arrow_up.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE903"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/axe.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE904"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/backpack.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE905"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/banner.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE906"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/barrier.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE907"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/bell.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE908"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/bills.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE909"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/book.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE90A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/book_open.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE90B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/bow.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE90C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/brush.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE90D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/chat.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE90E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/check.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE90F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/chest.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE910"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/chest_block.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE911"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/chest_empty.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE912"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/chest_open.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE913"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/clock.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE914"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/cogwheel.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE915"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/coins.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE916"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/compass.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE917"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/confetti.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE918"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/cross.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE919"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/crown.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE91A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/dart.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE91B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/diamond.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE91C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/dot_blue.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE91D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/dot_gray.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE91E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/dot_green.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE91F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/dot_red.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE920"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/dot_yellow.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE921"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/draw.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE922"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/earth.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE923"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/end.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE924"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/end_crystal.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE925"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/ender_pearl.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE926"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/envelope.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE927"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/envelope_open.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE928"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/eye.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE929"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/feather.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE92A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/flame.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE92B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/gem.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE92C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/gift.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE92D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/golden_apple.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE92E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/hat.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE92F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/heart.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE930"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/hourglass.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE931"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/info.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE932"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/island.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE933"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/key.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE934"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/kill.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE935"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/leaderboard.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE936"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/lightning.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE937"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/lock.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE938"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/lock_unlocked.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE939"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/mace.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE93A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/mob_head.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE93B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/nether_grass.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE93C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/nether_portal.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE93D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/overworld.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE93E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/party.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE93F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/pet_head.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE940"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/pickaxe.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE941"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/ping_0.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE942"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/ping_1.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE943"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/ping_2.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE944"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/ping_3.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE945"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/ping_4.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE946"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/ping_5.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE947"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/pinpoint.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE948"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/player_head.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE949"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/potion.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE94A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/scroll.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE94B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/scroll_open.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE94C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/shield.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE94D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/shop.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE94E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/shopping_cart.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE94F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/skull.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE950"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/star.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE951"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/sword.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE952"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/tombstone.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE953"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/totem.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE954"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/trophy.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE955"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/tropical_fish.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE956"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/upgrade.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE957"]
+        },
+        {
+            "type": "bitmap",
+            "file": "mcduels:icons/warning.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE958"]
         }
     ]
 }

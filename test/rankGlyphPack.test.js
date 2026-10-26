@@ -6,7 +6,8 @@ const test = require('node:test');
 const packRoot = path.resolve(__dirname, '..');
 const fontPath = path.join(packRoot, 'assets/minecraft/font/default.json');
 const ranksPath = path.join(packRoot, 'assets/minecraft/textures/ranks');
-const providers = JSON.parse(fs.readFileSync(fontPath, 'utf8')).providers;
+const allProviders = JSON.parse(fs.readFileSync(fontPath, 'utf8')).providers;
+const providers = allProviders.filter(provider => provider.file.startsWith('minecraft:ranks/'));
 
 test('maps fifty unique consecutive glyphs from U+E800 through U+E831', () => {
   const codePoints = providers.flatMap(provider => provider.chars)
