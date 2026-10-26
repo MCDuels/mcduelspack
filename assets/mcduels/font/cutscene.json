@@ -1,0 +1,1543 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "\ue000": 0.5,
+        "\ue001": -0.5,
+        "\ue002": 1,
+        "\ue003": -1,
+        "\ue004": 2,
+        "\ue005": -2,
+        "\ue006": 4,
+        "\ue007": -4,
+        "\ue008": 8,
+        "\ue009": -8,
+        "\ue00a": 16,
+        "\ue00b": -16,
+        "\ue00c": 32,
+        "\ue00d": -32,
+        "\ue00e": 64,
+        "\ue00f": -64,
+        "\ue010": 128,
+        "\ue011": -128,
+        "\ue012": 256,
+        "\ue013": -256,
+        "\ue014": 512,
+        "\ue015": -512
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/block.png",
+      "height": 150,
+      "ascent": 122,
+      "chars": [
+        "\ue016"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/panel_a.png",
+      "height": 128,
+      "ascent": 122,
+      "chars": [
+        "\ue017"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/panel_b.png",
+      "height": 128,
+      "ascent": 122,
+      "chars": [
+        "\ue018"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/block.png",
+      "height": 150,
+      "ascent": 74,
+      "chars": [
+        "\ue019"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/panel_a.png",
+      "height": 128,
+      "ascent": 74,
+      "chars": [
+        "\ue01a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/panel_b.png",
+      "height": 128,
+      "ascent": 74,
+      "chars": [
+        "\ue01b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/block.png",
+      "height": 150,
+      "ascent": 26,
+      "chars": [
+        "\ue01c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/panel_a.png",
+      "height": 128,
+      "ascent": 26,
+      "chars": [
+        "\ue01d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/panel_b.png",
+      "height": 128,
+      "ascent": 26,
+      "chars": [
+        "\ue01e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/block.png",
+      "height": 150,
+      "ascent": -22,
+      "chars": [
+        "\ue01f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/panel_a.png",
+      "height": 128,
+      "ascent": -22,
+      "chars": [
+        "\ue020"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/panel_b.png",
+      "height": 128,
+      "ascent": -22,
+      "chars": [
+        "\ue021"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/block.png",
+      "height": 150,
+      "ascent": -70,
+      "chars": [
+        "\ue022"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/panel_a.png",
+      "height": 128,
+      "ascent": -70,
+      "chars": [
+        "\ue023"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/panel_b.png",
+      "height": 128,
+      "ascent": -70,
+      "chars": [
+        "\ue024"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/block.png",
+      "height": 150,
+      "ascent": -118,
+      "chars": [
+        "\ue025"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/panel_a.png",
+      "height": 128,
+      "ascent": -118,
+      "chars": [
+        "\ue026"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/panel_b.png",
+      "height": 128,
+      "ascent": -118,
+      "chars": [
+        "\ue027"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_24.png",
+      "height": 24,
+      "ascent": 13,
+      "chars": [
+        "\ue028"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_18.png",
+      "height": 18,
+      "ascent": 10,
+      "chars": [
+        "\ue029"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_14.png",
+      "height": 14,
+      "ascent": 8,
+      "chars": [
+        "\ue02a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_12.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue02b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_a.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue02c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_b.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue02d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/dot.png",
+      "height": 48,
+      "ascent": 28,
+      "chars": [
+        "\ue02e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/dot.png",
+      "height": 48,
+      "ascent": 25,
+      "chars": [
+        "\ue02f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/dot.png",
+      "height": 48,
+      "ascent": 22,
+      "chars": [
+        "\ue030"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/dot.png",
+      "height": 48,
+      "ascent": 19,
+      "chars": [
+        "\ue031"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/dot.png",
+      "height": 48,
+      "ascent": 16,
+      "chars": [
+        "\ue032"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/dot.png",
+      "height": 48,
+      "ascent": 13,
+      "chars": [
+        "\ue033"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/dot.png",
+      "height": 48,
+      "ascent": 10,
+      "chars": [
+        "\ue034"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/dot.png",
+      "height": 48,
+      "ascent": 7,
+      "chars": [
+        "\ue035"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/frame.png",
+      "height": 64,
+      "ascent": 30,
+      "chars": [
+        "\ue036"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/dot.png",
+      "height": 48,
+      "ascent": -2,
+      "chars": [
+        "\ue037"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/dot.png",
+      "height": 48,
+      "ascent": -5,
+      "chars": [
+        "\ue038"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/dot.png",
+      "height": 48,
+      "ascent": -8,
+      "chars": [
+        "\ue039"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/dot.png",
+      "height": 48,
+      "ascent": -11,
+      "chars": [
+        "\ue03a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/dot.png",
+      "height": 48,
+      "ascent": -14,
+      "chars": [
+        "\ue03b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/dot.png",
+      "height": 48,
+      "ascent": -17,
+      "chars": [
+        "\ue03c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/dot.png",
+      "height": 48,
+      "ascent": -20,
+      "chars": [
+        "\ue03d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/dot.png",
+      "height": 48,
+      "ascent": -23,
+      "chars": [
+        "\ue03e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/frame.png",
+      "height": 64,
+      "ascent": 0,
+      "chars": [
+        "\ue03f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_00.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue040"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_00.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue041"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_01.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue042"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_01.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue043"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_02.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue044"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_02.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue045"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_03.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue046"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_03.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue047"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_04.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue048"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_04.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue049"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_05.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue04a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_05.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue04b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_06.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue04c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_06.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue04d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_07.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue04e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_07.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue04f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_08.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue050"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_08.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue051"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_09.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue052"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_09.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue053"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_10.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue054"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_10.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue055"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_11.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue056"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_11.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue057"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_12.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue058"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_12.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue059"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_13.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue05a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_13.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue05b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_14.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue05c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_14.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue05d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_15.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue05e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_15.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue05f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_16.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue060"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_16.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue061"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_17.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue062"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_17.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue063"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_18.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue064"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_18.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue065"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_19.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue066"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_19.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue067"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_20.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue068"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_20.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue069"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_21.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue06a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_21.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue06b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_22.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue06c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_22.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue06d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_23.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue06e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_23.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue06f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_24.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue070"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_24.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue071"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_25.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue072"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_25.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue073"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_26.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue074"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_26.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue075"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_27.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue076"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_27.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue077"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_28.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue078"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_28.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue079"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_29.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue07a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_29.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue07b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_30.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue07c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_30.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue07d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_31.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue07e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_31.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue07f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_32.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue080"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_32.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue081"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_33.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue082"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_33.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue083"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_34.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue084"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_34.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue085"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_35.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue086"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_35.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue087"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_36.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue088"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_36.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue089"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_37.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue08a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_37.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue08b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_38.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue08c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_38.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue08d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_39.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue08e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_39.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue08f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_40.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue090"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_40.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue091"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_41.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue092"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_41.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue093"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_42.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue094"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_42.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue095"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_43.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue096"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_43.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue097"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_44.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue098"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_44.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue099"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_45.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue09a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_45.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue09b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_46.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue09c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_46.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue09d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_47.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue09e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_47.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue09f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_48.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue0a0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_48.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue0a1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_49.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue0a2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_49.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue0a3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_50.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue0a4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_50.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue0a5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_51.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue0a6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_51.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue0a7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_52.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue0a8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_52.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue0a9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_53.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue0aa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_53.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue0ab"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_54.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue0ac"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_54.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue0ad"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_55.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue0ae"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_55.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue0af"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_56.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue0b0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_56.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue0b1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_57.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue0b2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_57.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue0b3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_58.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue0b4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_58.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue0b5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_59.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue0b6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_59.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue0b7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_60.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue0b8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_60.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue0b9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_61.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue0ba"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_61.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue0bb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_62.png",
+      "height": 12,
+      "ascent": 1,
+      "chars": [
+        "\ue0bc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/name_62.png",
+      "height": 12,
+      "ascent": 7,
+      "chars": [
+        "\ue0bd"
+      ]
+    }
+  ]
+}
