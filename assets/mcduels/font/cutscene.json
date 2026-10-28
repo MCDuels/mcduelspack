@@ -3,1540 +3,7167 @@
     {
       "type": "space",
       "advances": {
-        "\ue000": 0.5,
-        "\ue001": -0.5,
-        "\ue002": 1,
-        "\ue003": -1,
-        "\ue004": 2,
-        "\ue005": -2,
-        "\ue006": 4,
-        "\ue007": -4,
-        "\ue008": 8,
-        "\ue009": -8,
-        "\ue00a": 16,
-        "\ue00b": -16,
-        "\ue00c": 32,
-        "\ue00d": -32,
-        "\ue00e": 64,
-        "\ue00f": -64,
-        "\ue010": 128,
-        "\ue011": -128,
-        "\ue012": 256,
-        "\ue013": -256,
-        "\ue014": 512,
-        "\ue015": -512
+        "\ue000": 0.25,
+        "\ue001": -0.25,
+        "\ue002": 0.5,
+        "\ue003": -0.5,
+        "\ue004": 1,
+        "\ue005": -1,
+        "\ue006": 2,
+        "\ue007": -2,
+        "\ue008": 4,
+        "\ue009": -4,
+        "\ue00a": 8,
+        "\ue00b": -8,
+        "\ue00c": 16,
+        "\ue00d": -16,
+        "\ue00e": 32,
+        "\ue00f": -32,
+        "\ue010": 64,
+        "\ue011": -64,
+        "\ue012": 128,
+        "\ue013": -128,
+        "\ue014": 256,
+        "\ue015": -256,
+        "\ue016": 512,
+        "\ue017": -512
       }
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/block.png",
-      "height": 150,
-      "ascent": 122,
-      "chars": [
-        "\ue016"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mcduels:cutscene/panel_a.png",
-      "height": 128,
-      "ascent": 122,
-      "chars": [
-        "\ue017"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mcduels:cutscene/panel_b.png",
-      "height": 128,
-      "ascent": 122,
+      "file": "mcduels:cutscene/strip0_a.png",
+      "height": 133,
+      "ascent": 133,
       "chars": [
         "\ue018"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/block.png",
-      "height": 150,
-      "ascent": 74,
+      "file": "mcduels:cutscene/strip0_b.png",
+      "height": 133,
+      "ascent": 133,
       "chars": [
         "\ue019"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/panel_a.png",
-      "height": 128,
-      "ascent": 74,
+      "file": "mcduels:cutscene/strip0_seam.png",
+      "height": 133,
+      "ascent": 133,
       "chars": [
         "\ue01a"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/panel_b.png",
-      "height": 128,
-      "ascent": 74,
+      "file": "mcduels:cutscene/block_100x2.png",
+      "height": 200,
+      "ascent": 133,
       "chars": [
         "\ue01b"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/block.png",
-      "height": 150,
-      "ascent": 26,
+      "file": "mcduels:cutscene/edge_100x2.png",
+      "height": 200,
+      "ascent": 133,
       "chars": [
         "\ue01c"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/panel_a.png",
-      "height": 128,
-      "ascent": 26,
+      "file": "mcduels:cutscene/strip1_a.png",
+      "height": 33,
+      "ascent": 33,
       "chars": [
         "\ue01d"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/panel_b.png",
-      "height": 128,
-      "ascent": 26,
+      "file": "mcduels:cutscene/strip1_b.png",
+      "height": 33,
+      "ascent": 33,
       "chars": [
         "\ue01e"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/block.png",
-      "height": 150,
-      "ascent": -22,
+      "file": "mcduels:cutscene/strip1_seam.png",
+      "height": 33,
+      "ascent": 33,
       "chars": [
         "\ue01f"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/panel_a.png",
-      "height": 128,
-      "ascent": -22,
+      "file": "mcduels:cutscene/block_8x5.png",
+      "height": 40,
+      "ascent": 33,
       "chars": [
         "\ue020"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/panel_b.png",
-      "height": 128,
-      "ascent": -22,
+      "file": "mcduels:cutscene/edge_8x5.png",
+      "height": 40,
+      "ascent": 33,
       "chars": [
         "\ue021"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/block.png",
-      "height": 150,
-      "ascent": -70,
+      "file": "mcduels:cutscene/strip2_a.png",
+      "height": 25,
+      "ascent": 25,
       "chars": [
         "\ue022"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/panel_a.png",
-      "height": 128,
-      "ascent": -70,
+      "file": "mcduels:cutscene/strip2_b.png",
+      "height": 25,
+      "ascent": 25,
       "chars": [
         "\ue023"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/panel_b.png",
-      "height": 128,
-      "ascent": -70,
+      "file": "mcduels:cutscene/strip2_seam.png",
+      "height": 25,
+      "ascent": 25,
       "chars": [
         "\ue024"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/block.png",
-      "height": 150,
-      "ascent": -118,
+      "file": "mcduels:cutscene/block_8x4.png",
+      "height": 32,
+      "ascent": 25,
       "chars": [
         "\ue025"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/panel_a.png",
-      "height": 128,
-      "ascent": -118,
+      "file": "mcduels:cutscene/edge_8x4.png",
+      "height": 32,
+      "ascent": 25,
       "chars": [
         "\ue026"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/panel_b.png",
-      "height": 128,
-      "ascent": -118,
+      "file": "mcduels:cutscene/strip3_a.png",
+      "height": 17,
+      "ascent": 17,
       "chars": [
         "\ue027"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/vs_24.png",
-      "height": 24,
-      "ascent": 13,
+      "file": "mcduels:cutscene/strip3_b.png",
+      "height": 17,
+      "ascent": 17,
       "chars": [
         "\ue028"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/vs_18.png",
-      "height": 18,
-      "ascent": 10,
+      "file": "mcduels:cutscene/strip3_seam.png",
+      "height": 17,
+      "ascent": 17,
       "chars": [
         "\ue029"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/vs_14.png",
-      "height": 14,
-      "ascent": 8,
+      "file": "mcduels:cutscene/block_8x3.png",
+      "height": 24,
+      "ascent": 17,
       "chars": [
         "\ue02a"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/vs_12.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/edge_8x3.png",
+      "height": 24,
+      "ascent": 17,
       "chars": [
         "\ue02b"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/vs_a.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/strip4_a.png",
+      "height": 9,
+      "ascent": 9,
       "chars": [
         "\ue02c"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/vs_b.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/strip4_b.png",
+      "height": 9,
+      "ascent": 9,
       "chars": [
         "\ue02d"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/dot.png",
-      "height": 48,
-      "ascent": 28,
+      "file": "mcduels:cutscene/strip4_seam.png",
+      "height": 9,
+      "ascent": 9,
       "chars": [
         "\ue02e"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/dot.png",
-      "height": 48,
-      "ascent": 25,
+      "file": "mcduels:cutscene/block_8x2.png",
+      "height": 16,
+      "ascent": 9,
       "chars": [
         "\ue02f"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/dot.png",
-      "height": 48,
-      "ascent": 22,
+      "file": "mcduels:cutscene/edge_8x2.png",
+      "height": 16,
+      "ascent": 9,
       "chars": [
         "\ue030"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/dot.png",
-      "height": 48,
-      "ascent": 19,
+      "file": "mcduels:cutscene/strip5_a.png",
+      "height": 8,
+      "ascent": 1,
       "chars": [
         "\ue031"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/dot.png",
-      "height": 48,
-      "ascent": 16,
+      "file": "mcduels:cutscene/strip5_b.png",
+      "height": 8,
+      "ascent": 1,
       "chars": [
         "\ue032"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/dot.png",
-      "height": 48,
-      "ascent": 13,
+      "file": "mcduels:cutscene/strip5_seam.png",
+      "height": 8,
+      "ascent": 1,
       "chars": [
         "\ue033"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/dot.png",
-      "height": 48,
-      "ascent": 10,
+      "file": "mcduels:cutscene/block_8x1.png",
+      "height": 8,
+      "ascent": 1,
       "chars": [
         "\ue034"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/dot.png",
-      "height": 48,
-      "ascent": 7,
+      "file": "mcduels:cutscene/edge_8x1.png",
+      "height": 8,
+      "ascent": 1,
       "chars": [
         "\ue035"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/frame.png",
-      "height": 64,
-      "ascent": 30,
+      "file": "mcduels:cutscene/strip6_a.png",
+      "height": 8,
+      "ascent": -7,
       "chars": [
         "\ue036"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/dot.png",
-      "height": 48,
-      "ascent": -2,
+      "file": "mcduels:cutscene/strip6_b.png",
+      "height": 8,
+      "ascent": -7,
       "chars": [
         "\ue037"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/dot.png",
-      "height": 48,
-      "ascent": -5,
+      "file": "mcduels:cutscene/strip6_seam.png",
+      "height": 8,
+      "ascent": -7,
       "chars": [
         "\ue038"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/dot.png",
-      "height": 48,
-      "ascent": -8,
+      "file": "mcduels:cutscene/block_8x1.png",
+      "height": 8,
+      "ascent": -7,
       "chars": [
         "\ue039"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/dot.png",
-      "height": 48,
-      "ascent": -11,
+      "file": "mcduels:cutscene/edge_8x1.png",
+      "height": 8,
+      "ascent": -7,
       "chars": [
         "\ue03a"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/dot.png",
-      "height": 48,
-      "ascent": -14,
+      "file": "mcduels:cutscene/strip7_a.png",
+      "height": 8,
+      "ascent": -15,
       "chars": [
         "\ue03b"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/dot.png",
-      "height": 48,
-      "ascent": -17,
+      "file": "mcduels:cutscene/strip7_b.png",
+      "height": 8,
+      "ascent": -15,
       "chars": [
         "\ue03c"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/dot.png",
-      "height": 48,
-      "ascent": -20,
+      "file": "mcduels:cutscene/strip7_seam.png",
+      "height": 8,
+      "ascent": -15,
       "chars": [
         "\ue03d"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/dot.png",
-      "height": 48,
-      "ascent": -23,
+      "file": "mcduels:cutscene/block_8x1.png",
+      "height": 8,
+      "ascent": -15,
       "chars": [
         "\ue03e"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/frame.png",
-      "height": 64,
-      "ascent": 0,
+      "file": "mcduels:cutscene/edge_8x1.png",
+      "height": 8,
+      "ascent": -15,
       "chars": [
         "\ue03f"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_00.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/strip8_a.png",
+      "height": 8,
+      "ascent": -23,
       "chars": [
         "\ue040"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_00.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/strip8_b.png",
+      "height": 8,
+      "ascent": -23,
       "chars": [
         "\ue041"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_01.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/strip8_seam.png",
+      "height": 8,
+      "ascent": -23,
       "chars": [
         "\ue042"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_01.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/block_8x1.png",
+      "height": 8,
+      "ascent": -23,
       "chars": [
         "\ue043"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_02.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/edge_8x1.png",
+      "height": 8,
+      "ascent": -23,
       "chars": [
         "\ue044"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_02.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/strip9_a.png",
+      "height": 8,
+      "ascent": -31,
       "chars": [
         "\ue045"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_03.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/strip9_b.png",
+      "height": 8,
+      "ascent": -31,
       "chars": [
         "\ue046"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_03.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/strip9_seam.png",
+      "height": 8,
+      "ascent": -31,
       "chars": [
         "\ue047"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_04.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/block_8x1.png",
+      "height": 8,
+      "ascent": -31,
       "chars": [
         "\ue048"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_04.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/edge_8x1.png",
+      "height": 8,
+      "ascent": -31,
       "chars": [
         "\ue049"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_05.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/strip10_a.png",
+      "height": 100,
+      "ascent": -39,
       "chars": [
         "\ue04a"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_05.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/strip10_b.png",
+      "height": 100,
+      "ascent": -39,
       "chars": [
         "\ue04b"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_06.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/strip10_seam.png",
+      "height": 100,
+      "ascent": -39,
       "chars": [
         "\ue04c"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_06.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/block_100x1.png",
+      "height": 100,
+      "ascent": -39,
       "chars": [
         "\ue04d"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_07.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/edge_100x1.png",
+      "height": 100,
+      "ascent": -39,
       "chars": [
         "\ue04e"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_07.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/cover.png",
+      "height": 272,
+      "ascent": 133,
       "chars": [
         "\ue04f"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_08.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/flash_0.png",
+      "height": 272,
+      "ascent": 133,
       "chars": [
         "\ue050"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_08.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/flash_1.png",
+      "height": 272,
+      "ascent": 133,
       "chars": [
         "\ue051"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_09.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/flash_2.png",
+      "height": 272,
+      "ascent": 133,
       "chars": [
         "\ue052"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_09.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0041.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue053"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_10.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0042.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue054"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_10.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0043.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue055"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_11.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0044.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue056"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_11.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0045.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue057"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_12.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0046.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue058"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_12.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0047.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue059"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_13.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0048.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue05a"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_13.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0049.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue05b"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_14.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_004a.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue05c"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_14.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_004b.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue05d"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_15.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_004c.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue05e"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_15.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_004d.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue05f"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_16.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_004e.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue060"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_16.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_004f.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue061"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_17.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0050.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue062"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_17.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0051.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue063"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_18.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0052.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue064"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_18.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0053.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue065"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_19.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0054.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue066"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_19.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0055.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue067"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_20.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0056.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue068"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_20.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0057.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue069"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_21.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0058.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue06a"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_21.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0059.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue06b"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_22.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_005a.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue06c"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_22.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0030.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue06d"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_23.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0031.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue06e"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_23.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0032.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue06f"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_24.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0033.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue070"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_24.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0034.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue071"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_25.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0035.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue072"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_25.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0036.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue073"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_26.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0037.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue074"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_26.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0038.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue075"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_27.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_0039.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue076"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_27.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_160_0_25_005f.png",
+      "height": 25,
+      "ascent": 9,
       "chars": [
         "\ue077"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_28.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0041.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue078"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_28.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0042.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue079"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_29.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0043.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue07a"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_29.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0044.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue07b"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_30.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0045.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue07c"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_30.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0046.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue07d"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_31.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0047.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue07e"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_31.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0048.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue07f"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_32.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0049.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue080"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_32.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_004a.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue081"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_33.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_004b.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue082"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_33.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_004c.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue083"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_34.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_004d.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue084"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_34.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_004e.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue085"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_35.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_004f.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue086"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_35.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0050.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue087"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_36.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0051.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue088"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_36.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0052.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue089"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_37.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0053.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue08a"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_37.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0054.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue08b"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_38.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0055.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue08c"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_38.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0056.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue08d"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_39.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0057.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue08e"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_39.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0058.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue08f"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_40.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0059.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue090"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_40.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_005a.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue091"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_41.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0030.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue092"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_41.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0031.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue093"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_42.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0032.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue094"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_42.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0033.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue095"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_43.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0034.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue096"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_43.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0035.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue097"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_44.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0036.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue098"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_44.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0037.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue099"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_45.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0038.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue09a"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_45.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_0039.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue09b"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_46.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_002e.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue09c"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_46.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/geistmono_700_24_0_16_002d.png",
+      "height": 16,
+      "ascent": 16,
       "chars": [
         "\ue09d"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_47.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/bar_1x1_13.png",
+      "height": 13,
+      "ascent": 13,
       "chars": [
         "\ue09e"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_47.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/bar_2x1_13.png",
+      "height": 13,
+      "ascent": 13,
       "chars": [
         "\ue09f"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_48.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/bar_4x1_13.png",
+      "height": 13,
+      "ascent": 13,
       "chars": [
         "\ue0a0"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_48.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/bar_8x1_13.png",
+      "height": 13,
+      "ascent": 13,
       "chars": [
         "\ue0a1"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_49.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/bar_16x1_13.png",
+      "height": 13,
+      "ascent": 13,
       "chars": [
         "\ue0a2"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_49.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/bar_32x1_13.png",
+      "height": 13,
+      "ascent": 13,
       "chars": [
         "\ue0a3"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_50.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/bar_64x1_13.png",
+      "height": 13,
+      "ascent": 13,
       "chars": [
         "\ue0a4"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_50.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/bar_1x1_1.png",
+      "height": 1,
+      "ascent": -13,
       "chars": [
         "\ue0a5"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_51.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/bar_2x1_1.png",
+      "height": 1,
+      "ascent": -13,
       "chars": [
         "\ue0a6"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_51.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/bar_4x1_1.png",
+      "height": 1,
+      "ascent": -13,
       "chars": [
         "\ue0a7"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_52.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/bar_8x1_1.png",
+      "height": 1,
+      "ascent": -13,
       "chars": [
         "\ue0a8"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_52.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/bar_16x1_1.png",
+      "height": 1,
+      "ascent": -13,
       "chars": [
         "\ue0a9"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_53.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/bar_32x1_1.png",
+      "height": 1,
+      "ascent": -13,
       "chars": [
         "\ue0aa"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_53.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/bar_64x1_1.png",
+      "height": 1,
+      "ascent": -13,
       "chars": [
         "\ue0ab"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_54.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0041.png",
+      "height": 20,
+      "ascent": 6,
       "chars": [
         "\ue0ac"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_54.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0042.png",
+      "height": 20,
+      "ascent": 6,
       "chars": [
         "\ue0ad"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_55.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0043.png",
+      "height": 20,
+      "ascent": 6,
       "chars": [
         "\ue0ae"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_55.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0044.png",
+      "height": 20,
+      "ascent": 6,
       "chars": [
         "\ue0af"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_56.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0045.png",
+      "height": 20,
+      "ascent": 6,
       "chars": [
         "\ue0b0"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_56.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0046.png",
+      "height": 20,
+      "ascent": 6,
       "chars": [
         "\ue0b1"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_57.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0047.png",
+      "height": 20,
+      "ascent": 6,
       "chars": [
         "\ue0b2"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_57.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0048.png",
+      "height": 20,
+      "ascent": 6,
       "chars": [
         "\ue0b3"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_58.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0049.png",
+      "height": 20,
+      "ascent": 6,
       "chars": [
         "\ue0b4"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_58.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_004a.png",
+      "height": 20,
+      "ascent": 6,
       "chars": [
         "\ue0b5"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_59.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_004b.png",
+      "height": 20,
+      "ascent": 6,
       "chars": [
         "\ue0b6"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_59.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_004c.png",
+      "height": 20,
+      "ascent": 6,
       "chars": [
         "\ue0b7"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_60.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_004d.png",
+      "height": 20,
+      "ascent": 6,
       "chars": [
         "\ue0b8"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_60.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_004e.png",
+      "height": 20,
+      "ascent": 6,
       "chars": [
         "\ue0b9"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_61.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_004f.png",
+      "height": 20,
+      "ascent": 6,
       "chars": [
         "\ue0ba"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_61.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0050.png",
+      "height": 20,
+      "ascent": 6,
       "chars": [
         "\ue0bb"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_62.png",
-      "height": 12,
-      "ascent": 1,
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0051.png",
+      "height": 20,
+      "ascent": 6,
       "chars": [
         "\ue0bc"
       ]
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/name_62.png",
-      "height": 12,
-      "ascent": 7,
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0052.png",
+      "height": 20,
+      "ascent": 6,
       "chars": [
         "\ue0bd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0053.png",
+      "height": 20,
+      "ascent": 6,
+      "chars": [
+        "\ue0be"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0054.png",
+      "height": 20,
+      "ascent": 6,
+      "chars": [
+        "\ue0bf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0055.png",
+      "height": 20,
+      "ascent": 6,
+      "chars": [
+        "\ue0c0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0056.png",
+      "height": 20,
+      "ascent": 6,
+      "chars": [
+        "\ue0c1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0057.png",
+      "height": 20,
+      "ascent": 6,
+      "chars": [
+        "\ue0c2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0058.png",
+      "height": 20,
+      "ascent": 6,
+      "chars": [
+        "\ue0c3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0059.png",
+      "height": 20,
+      "ascent": 6,
+      "chars": [
+        "\ue0c4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_005a.png",
+      "height": 20,
+      "ascent": 6,
+      "chars": [
+        "\ue0c5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0030.png",
+      "height": 20,
+      "ascent": 6,
+      "chars": [
+        "\ue0c6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0031.png",
+      "height": 20,
+      "ascent": 6,
+      "chars": [
+        "\ue0c7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0032.png",
+      "height": 20,
+      "ascent": 6,
+      "chars": [
+        "\ue0c8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0033.png",
+      "height": 20,
+      "ascent": 6,
+      "chars": [
+        "\ue0c9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0034.png",
+      "height": 20,
+      "ascent": 6,
+      "chars": [
+        "\ue0ca"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0035.png",
+      "height": 20,
+      "ascent": 6,
+      "chars": [
+        "\ue0cb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0036.png",
+      "height": 20,
+      "ascent": 6,
+      "chars": [
+        "\ue0cc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0037.png",
+      "height": 20,
+      "ascent": 6,
+      "chars": [
+        "\ue0cd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0038.png",
+      "height": 20,
+      "ascent": 6,
+      "chars": [
+        "\ue0ce"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_0039.png",
+      "height": 20,
+      "ascent": 6,
+      "chars": [
+        "\ue0cf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_128_0_20_005f.png",
+      "height": 20,
+      "ascent": 6,
+      "chars": [
+        "\ue0d0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0041.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0d1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0042.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0d2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0043.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0d3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0044.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0d4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0045.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0d5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0046.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0d6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0047.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0d7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0048.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0d8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0049.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0d9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_004a.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0da"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_004b.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0db"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_004c.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0dc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_004d.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0dd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_004e.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0de"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_004f.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0df"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0050.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0e0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0051.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0e1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0052.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0e2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0053.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0e3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0054.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0e4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0055.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0e5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0056.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0e6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0057.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0e7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0058.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0e8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0059.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0e9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_005a.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0ea"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0030.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0eb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0031.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0ec"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0032.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0ed"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0033.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0ee"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0034.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0ef"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0035.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0f0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0036.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0f1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0037.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0f2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0038.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0f3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_0039.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0f4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_002e.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0f5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_13_002d.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue0f6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_1x1_10.png",
+      "height": 10,
+      "ascent": 10,
+      "chars": [
+        "\ue0f7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_2x1_10.png",
+      "height": 10,
+      "ascent": 10,
+      "chars": [
+        "\ue0f8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_4x1_10.png",
+      "height": 10,
+      "ascent": 10,
+      "chars": [
+        "\ue0f9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_8x1_10.png",
+      "height": 10,
+      "ascent": 10,
+      "chars": [
+        "\ue0fa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_16x1_10.png",
+      "height": 10,
+      "ascent": 10,
+      "chars": [
+        "\ue0fb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_32x1_10.png",
+      "height": 10,
+      "ascent": 10,
+      "chars": [
+        "\ue0fc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_64x1_10.png",
+      "height": 10,
+      "ascent": 10,
+      "chars": [
+        "\ue0fd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_1x1_1.png",
+      "height": 1,
+      "ascent": -12,
+      "chars": [
+        "\ue0fe"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_2x1_1.png",
+      "height": 1,
+      "ascent": -12,
+      "chars": [
+        "\ue0ff"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_4x1_1.png",
+      "height": 1,
+      "ascent": -12,
+      "chars": [
+        "\ue100"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_8x1_1.png",
+      "height": 1,
+      "ascent": -12,
+      "chars": [
+        "\ue101"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_16x1_1.png",
+      "height": 1,
+      "ascent": -12,
+      "chars": [
+        "\ue102"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_32x1_1.png",
+      "height": 1,
+      "ascent": -12,
+      "chars": [
+        "\ue103"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_64x1_1.png",
+      "height": 1,
+      "ascent": -12,
+      "chars": [
+        "\ue104"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0041.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue105"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0042.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue106"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0043.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue107"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0044.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue108"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0045.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue109"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0046.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue10a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0047.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue10b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0048.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue10c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0049.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue10d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_004a.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue10e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_004b.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue10f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_004c.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue110"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_004d.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue111"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_004e.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue112"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_004f.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue113"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0050.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue114"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0051.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue115"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0052.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue116"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0053.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue117"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0054.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue118"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0055.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue119"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0056.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue11a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0057.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue11b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0058.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue11c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0059.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue11d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_005a.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue11e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0030.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue11f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0031.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue120"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0032.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue121"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0033.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue122"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0034.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue123"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0035.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue124"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0036.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue125"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0037.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue126"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0038.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue127"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_0039.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue128"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_96_0_15_005f.png",
+      "height": 15,
+      "ascent": 4,
+      "chars": [
+        "\ue129"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0041.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue12a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0042.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue12b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0043.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue12c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0044.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue12d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0045.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue12e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0046.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue12f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0047.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue130"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0048.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue131"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0049.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue132"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_004a.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue133"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_004b.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue134"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_004c.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue135"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_004d.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue136"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_004e.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue137"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_004f.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue138"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0050.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue139"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0051.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue13a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0052.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue13b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0053.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue13c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0054.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue13d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0055.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue13e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0056.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue13f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0057.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue140"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0058.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue141"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0059.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue142"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_005a.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue143"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0030.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue144"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0031.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue145"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0032.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue146"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0033.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue147"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0034.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue148"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0035.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue149"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0036.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue14a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0037.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue14b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0038.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue14c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_0039.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue14d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_002e.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue14e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_11_002d.png",
+      "height": 11,
+      "ascent": 11,
+      "chars": [
+        "\ue14f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_1x1_8.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        "\ue150"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_2x1_8.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        "\ue151"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_4x1_8.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        "\ue152"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_8x1_8.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        "\ue153"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_16x1_8.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        "\ue154"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_32x1_8.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        "\ue155"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_64x1_8.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        "\ue156"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_1x1_1.png",
+      "height": 1,
+      "ascent": -10,
+      "chars": [
+        "\ue157"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_2x1_1.png",
+      "height": 1,
+      "ascent": -10,
+      "chars": [
+        "\ue158"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_4x1_1.png",
+      "height": 1,
+      "ascent": -10,
+      "chars": [
+        "\ue159"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_8x1_1.png",
+      "height": 1,
+      "ascent": -10,
+      "chars": [
+        "\ue15a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_16x1_1.png",
+      "height": 1,
+      "ascent": -10,
+      "chars": [
+        "\ue15b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_32x1_1.png",
+      "height": 1,
+      "ascent": -10,
+      "chars": [
+        "\ue15c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_64x1_1.png",
+      "height": 1,
+      "ascent": -10,
+      "chars": [
+        "\ue15d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/face_row_0_15.png",
+      "height": 15,
+      "ascent": 15,
+      "chars": [
+        "\ue15e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/face_row_1_13.png",
+      "height": 13,
+      "ascent": 13,
+      "chars": [
+        "\ue15f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/face_row_0_10.png",
+      "height": 10,
+      "ascent": 10,
+      "chars": [
+        "\ue160"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/face_row_1_8.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": [
+        "\ue161"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/face_row_0_5.png",
+      "height": 5,
+      "ascent": 5,
+      "chars": [
+        "\ue162"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/face_row_1_3.png",
+      "height": 3,
+      "ascent": 3,
+      "chars": [
+        "\ue163"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/face_row_0_3.png",
+      "height": 3,
+      "ascent": 0,
+      "chars": [
+        "\ue164"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/face_row_1_3.png",
+      "height": 3,
+      "ascent": -2,
+      "chars": [
+        "\ue165"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/face_plate_s3.png",
+      "height": 16,
+      "ascent": 16,
+      "chars": [
+        "\ue166"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/face_plate_s4.png",
+      "height": 9,
+      "ascent": 9,
+      "chars": [
+        "\ue167"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/face_plate_s5.png",
+      "height": 8,
+      "ascent": 1,
+      "chars": [
+        "\ue168"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/face_plate_s6.png",
+      "height": 1,
+      "ascent": -7,
+      "chars": [
+        "\ue169"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0041.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue16a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0042.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue16b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0043.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue16c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0044.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue16d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0045.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue16e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0046.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue16f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0047.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue170"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0048.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue171"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0049.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue172"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_004a.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue173"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_004b.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue174"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_004c.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue175"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_004d.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue176"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_004e.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue177"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_004f.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue178"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0050.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue179"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0051.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue17a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0052.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue17b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0053.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue17c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0054.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue17d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0055.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue17e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0056.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue17f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0057.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue180"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0058.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue181"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0059.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue182"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_005a.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue183"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0030.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue184"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0031.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue185"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0032.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue186"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0033.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue187"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0034.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue188"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0035.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue189"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0036.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue18a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0037.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue18b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0038.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue18c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_0039.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue18d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_48_0_8_005f.png",
+      "height": 8,
+      "ascent": -8,
+      "chars": [
+        "\ue18e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0041.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue18f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0042.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue190"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0043.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue191"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0044.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue192"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0045.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue193"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0046.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue194"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0047.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue195"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0048.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue196"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0049.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue197"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_004a.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue198"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_004b.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue199"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_004c.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue19a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_004d.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue19b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_004e.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue19c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_004f.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue19d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0050.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue19e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0051.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue19f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0052.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue1a0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0053.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue1a1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0054.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue1a2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0055.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue1a3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0056.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue1a4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0057.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue1a5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0058.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue1a6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0059.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue1a7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_005a.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue1a8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0030.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue1a9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0031.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue1aa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0032.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue1ab"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0033.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue1ac"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0034.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue1ad"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0035.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue1ae"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0036.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue1af"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0037.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue1b0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0038.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue1b1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_0039.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue1b2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_40_0_6_005f.png",
+      "height": 6,
+      "ascent": -9,
+      "chars": [
+        "\ue1b3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0041.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1b4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0042.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1b5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0043.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1b6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0044.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1b7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0045.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1b8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0046.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1b9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0047.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1ba"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0048.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1bb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0049.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1bc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_004a.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1bd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_004b.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1be"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_004c.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1bf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_004d.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1c0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_004e.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1c1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_004f.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1c2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0050.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1c3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0051.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1c4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0052.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1c5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0053.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1c6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0054.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1c7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0055.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1c8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0056.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1c9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0057.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1ca"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0058.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1cb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0059.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1cc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_005a.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1cd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0030.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1ce"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0031.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1cf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0032.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1d0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0033.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1d1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0034.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1d2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0035.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1d3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0036.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1d4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0037.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1d5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0038.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1d6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_0039.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1d7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_32_0_5_005f.png",
+      "height": 5,
+      "ascent": -10,
+      "chars": [
+        "\ue1d8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0041.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1d9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0042.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1da"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0043.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1db"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0044.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1dc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0045.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1dd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0046.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1de"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0047.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1df"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0048.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1e0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0049.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1e1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_004a.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1e2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_004b.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1e3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_004c.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1e4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_004d.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1e5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_004e.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1e6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_004f.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1e7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0050.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1e8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0051.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1e9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0052.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1ea"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0053.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1eb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0054.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1ec"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0055.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1ed"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0056.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1ee"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0057.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1ef"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0058.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1f0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0059.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1f1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_005a.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1f2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0030.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1f3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0031.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1f4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0032.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1f5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0033.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1f6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0034.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1f7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0035.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1f8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0036.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1f9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0037.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1fa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0038.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1fb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_0039.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1fc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/anton-regular_r_24_0_4_005f.png",
+      "height": 4,
+      "ascent": -11,
+      "chars": [
+        "\ue1fd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0041.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue1fe"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0042.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue1ff"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0043.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue200"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0044.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue201"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0045.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue202"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0046.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue203"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0047.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue204"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0048.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue205"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0049.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue206"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_004a.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue207"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_004b.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue208"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_004c.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue209"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_004d.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue20a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_004e.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue20b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_004f.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue20c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0050.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue20d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0051.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue20e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0052.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue20f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0053.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue210"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0054.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue211"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0055.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue212"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0056.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue213"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0057.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue214"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0058.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue215"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0059.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue216"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_005a.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue217"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0030.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue218"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0031.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue219"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0032.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue21a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0033.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue21b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0034.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue21c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0035.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue21d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0036.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue21e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0037.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue21f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0038.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue220"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_0039.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue221"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_002e.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue222"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_500_24_0_2_002d.png",
+      "height": 2,
+      "ascent": -16,
+      "chars": [
+        "\ue223"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact0_paper_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue224"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact0_paper_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue225"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact0_paper_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue226"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact0_paper_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue227"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact0_orange_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue228"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact0_orange_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue229"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact0_orange_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue22a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact0_orange_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue22b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact0_blue_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue22c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact0_blue_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue22d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact0_blue_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue22e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact0_blue_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue22f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact1_paper_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue230"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact1_paper_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue231"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact1_paper_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue232"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact1_paper_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue233"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact1_orange_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue234"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact1_orange_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue235"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact1_orange_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue236"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact1_orange_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue237"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact1_blue_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue238"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact1_blue_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue239"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact1_blue_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue23a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact1_blue_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue23b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact2_paper_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue23c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact2_paper_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue23d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact2_paper_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue23e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact2_paper_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue23f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact2_orange_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue240"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact2_orange_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue241"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact2_orange_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue242"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact2_orange_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue243"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact2_blue_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue244"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact2_blue_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue245"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact2_blue_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue246"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact2_blue_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue247"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact3_paper_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue248"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact3_paper_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue249"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact3_paper_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue24a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact3_paper_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue24b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact3_orange_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue24c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact3_orange_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue24d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact3_orange_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue24e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact3_orange_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue24f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact3_blue_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue250"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact3_blue_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue251"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact3_blue_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue252"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact3_blue_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue253"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact4_paper_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue254"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact4_paper_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue255"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact4_paper_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue256"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact4_paper_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue257"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact4_orange_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue258"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact4_orange_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue259"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact4_orange_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue25a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact4_orange_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue25b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact4_blue_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue25c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact4_blue_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue25d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact4_blue_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue25e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact4_blue_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue25f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact5_paper_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue260"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact5_paper_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue261"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact5_paper_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue262"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact5_paper_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue263"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact5_orange_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue264"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact5_orange_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue265"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact5_orange_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue266"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact5_orange_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue267"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact5_blue_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue268"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact5_blue_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue269"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact5_blue_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue26a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact5_blue_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue26b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact6_paper_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue26c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact6_paper_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue26d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact6_paper_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue26e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact6_paper_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue26f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact6_orange_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue270"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact6_orange_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue271"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact6_orange_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue272"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact6_orange_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue273"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact6_blue_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue274"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact6_blue_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue275"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact6_blue_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue276"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact6_blue_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue277"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact7_paper_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue278"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact7_paper_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue279"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact7_paper_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue27a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact7_paper_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue27b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact7_orange_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue27c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact7_orange_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue27d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact7_orange_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue27e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact7_orange_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue27f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact7_blue_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue280"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact7_blue_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue281"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact7_blue_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue282"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact7_blue_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue283"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact8_orange_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue284"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact8_orange_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue285"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact8_orange_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue286"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact8_orange_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue287"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact8_blue_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue288"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact8_blue_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue289"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact8_blue_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue28a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact8_blue_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue28b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact9_blue_00.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue28c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact9_blue_01.png",
+      "height": 75,
+      "ascent": 72,
+      "chars": [
+        "\ue28d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact9_blue_10.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue28e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/impact9_blue_11.png",
+      "height": 75,
+      "ascent": -3,
+      "chars": [
+        "\ue28f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_drop0_ink.png",
+      "height": 58,
+      "ascent": 23,
+      "chars": [
+        "\ue290"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_drop0_paper.png",
+      "height": 58,
+      "ascent": 23,
+      "chars": [
+        "\ue291"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_drop1_ink.png",
+      "height": 57,
+      "ascent": 23,
+      "chars": [
+        "\ue292"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_drop1_paper.png",
+      "height": 57,
+      "ascent": 23,
+      "chars": [
+        "\ue293"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_drop2_ink.png",
+      "height": 53,
+      "ascent": 21,
+      "chars": [
+        "\ue294"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_drop2_paper.png",
+      "height": 53,
+      "ascent": 21,
+      "chars": [
+        "\ue295"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_drop3_ink.png",
+      "height": 42,
+      "ascent": 16,
+      "chars": [
+        "\ue296"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_drop3_paper.png",
+      "height": 42,
+      "ascent": 16,
+      "chars": [
+        "\ue297"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring0_ink.png",
+      "height": 20,
+      "ascent": 6,
+      "chars": [
+        "\ue298"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring0_paper.png",
+      "height": 20,
+      "ascent": 6,
+      "chars": [
+        "\ue299"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring1_ink.png",
+      "height": 19,
+      "ascent": 6,
+      "chars": [
+        "\ue29a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring1_paper.png",
+      "height": 19,
+      "ascent": 6,
+      "chars": [
+        "\ue29b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring2_ink.png",
+      "height": 18,
+      "ascent": 6,
+      "chars": [
+        "\ue29c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring2_paper.png",
+      "height": 18,
+      "ascent": 6,
+      "chars": [
+        "\ue29d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring3_ink.png",
+      "height": 18,
+      "ascent": 6,
+      "chars": [
+        "\ue29e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring3_paper.png",
+      "height": 18,
+      "ascent": 6,
+      "chars": [
+        "\ue29f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring4_ink.png",
+      "height": 18,
+      "ascent": 6,
+      "chars": [
+        "\ue2a0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring4_paper.png",
+      "height": 18,
+      "ascent": 6,
+      "chars": [
+        "\ue2a1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring5_ink.png",
+      "height": 18,
+      "ascent": 6,
+      "chars": [
+        "\ue2a2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring5_paper.png",
+      "height": 18,
+      "ascent": 6,
+      "chars": [
+        "\ue2a3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring6_ink.png",
+      "height": 19,
+      "ascent": 6,
+      "chars": [
+        "\ue2a4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring6_paper.png",
+      "height": 19,
+      "ascent": 6,
+      "chars": [
+        "\ue2a5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring7_ink.png",
+      "height": 19,
+      "ascent": 6,
+      "chars": [
+        "\ue2a6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring7_paper.png",
+      "height": 19,
+      "ascent": 6,
+      "chars": [
+        "\ue2a7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring8_ink.png",
+      "height": 19,
+      "ascent": 6,
+      "chars": [
+        "\ue2a8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring8_paper.png",
+      "height": 19,
+      "ascent": 6,
+      "chars": [
+        "\ue2a9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring9_ink.png",
+      "height": 18,
+      "ascent": 6,
+      "chars": [
+        "\ue2aa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring9_paper.png",
+      "height": 18,
+      "ascent": 6,
+      "chars": [
+        "\ue2ab"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring10_ink.png",
+      "height": 18,
+      "ascent": 6,
+      "chars": [
+        "\ue2ac"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring10_paper.png",
+      "height": 18,
+      "ascent": 6,
+      "chars": [
+        "\ue2ad"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring11_ink.png",
+      "height": 18,
+      "ascent": 6,
+      "chars": [
+        "\ue2ae"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring11_paper.png",
+      "height": 18,
+      "ascent": 6,
+      "chars": [
+        "\ue2af"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring12_ink.png",
+      "height": 18,
+      "ascent": 6,
+      "chars": [
+        "\ue2b0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_spring12_paper.png",
+      "height": 18,
+      "ascent": 6,
+      "chars": [
+        "\ue2b1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_rest_ink_s4.png",
+      "height": 6,
+      "ascent": 6,
+      "chars": [
+        "\ue2b2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_rest_ink_s5.png",
+      "height": 8,
+      "ascent": 1,
+      "chars": [
+        "\ue2b3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_rest_ink_s6.png",
+      "height": 5,
+      "ascent": -7,
+      "chars": [
+        "\ue2b4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_rest_paper_s4.png",
+      "height": 6,
+      "ascent": 6,
+      "chars": [
+        "\ue2b5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_rest_paper_s5.png",
+      "height": 8,
+      "ascent": 1,
+      "chars": [
+        "\ue2b6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/vs_rest_paper_s6.png",
+      "height": 5,
+      "ascent": -7,
+      "chars": [
+        "\ue2b7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0041.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2b8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0042.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2b9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0043.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2ba"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0044.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2bb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0045.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2bc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0046.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2bd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0047.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2be"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0048.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2bf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0049.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2c0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_004a.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2c1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_004b.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2c2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_004c.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2c3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_004d.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2c4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_004e.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2c5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_004f.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2c6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0050.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2c7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0051.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2c8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0052.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2c9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0053.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2ca"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0054.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2cb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0055.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2cc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0056.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2cd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0057.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2ce"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0058.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2cf"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0059.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2d0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_005a.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2d1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0030.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2d2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0031.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2d3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0032.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2d4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0033.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2d5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0034.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2d6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0035.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2d7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0036.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2d8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0037.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2d9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0038.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2da"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_0039.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2db"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_002e.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2dc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_4_3_002d.png",
+      "height": 3,
+      "ascent": -16,
+      "chars": [
+        "\ue2dd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_1x4_4.png",
+      "height": 4,
+      "ascent": -15,
+      "chars": [
+        "\ue2de"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_2x4_4.png",
+      "height": 4,
+      "ascent": -15,
+      "chars": [
+        "\ue2df"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_4x4_4.png",
+      "height": 4,
+      "ascent": -15,
+      "chars": [
+        "\ue2e0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_8x4_4.png",
+      "height": 4,
+      "ascent": -15,
+      "chars": [
+        "\ue2e1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_16x4_4.png",
+      "height": 4,
+      "ascent": -15,
+      "chars": [
+        "\ue2e2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_32x4_4.png",
+      "height": 4,
+      "ascent": -15,
+      "chars": [
+        "\ue2e3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/bar_64x4_4.png",
+      "height": 4,
+      "ascent": -15,
+      "chars": [
+        "\ue2e4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0041.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2e5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0042.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2e6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0043.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2e7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0044.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2e8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0045.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2e9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0046.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2ea"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0047.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2eb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0048.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2ec"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0049.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2ed"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_004a.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2ee"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_004b.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2ef"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_004c.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2f0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_004d.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2f1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_004e.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2f2"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_004f.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2f3"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0050.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2f4"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0051.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2f5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0052.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2f6"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0053.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2f7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0054.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2f8"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0055.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2f9"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0056.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2fa"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0057.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2fb"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0058.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2fc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0059.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2fd"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_005a.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2fe"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0030.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue2ff"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0031.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue300"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0032.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue301"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0033.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue302"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0034.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue303"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0035.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue304"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0036.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue305"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0037.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue306"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0038.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue307"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_0039.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue308"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_002e.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue309"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_24_0_2_002d.png",
+      "height": 2,
+      "ascent": -21,
+      "chars": [
+        "\ue30a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0041.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue30b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0042.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue30c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0043.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue30d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0044.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue30e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0045.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue30f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0046.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue310"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0047.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue311"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0048.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue312"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0049.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue313"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_004a.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue314"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_004b.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue315"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_004c.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue316"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_004d.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue317"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_004e.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue318"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_004f.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue319"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0050.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue31a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0051.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue31b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0052.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue31c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0053.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue31d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0054.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue31e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0055.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue31f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0056.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue320"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0057.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue321"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0058.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue322"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0059.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue323"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_005a.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue324"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0030.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue325"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0031.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue326"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0032.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue327"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0033.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue328"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0034.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue329"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0035.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue32a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0036.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue32b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0037.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue32c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0038.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue32d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_0039.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue32e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_002e.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue32f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mcduels:cutscene/geistmono_700_20_12_3_002d.png",
+      "height": 3,
+      "ascent": -31,
+      "chars": [
+        "\ue330"
       ]
     }
   ]

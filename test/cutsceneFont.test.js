@@ -30,16 +30,35 @@ test('gives every glyph its own code point', () => {
   assert.equal(new Set(chars).size, chars.length);
 });
 
+function placedGlyphs(node, found = []) {
+  if (typeof node === 'string') {
+    const code = node.codePointAt(0);
+    if (node.length === 1 && code >= 0xe000 && code <= 0xf8ff) found.push(node);
+  } else if (Array.isArray(node)) {
+    node.forEach(child => placedGlyphs(child, found));
+  } else if (node && typeof node === 'object') {
+    Object.values(node).forEach(child => placedGlyphs(child, found));
+  }
+  return found;
+}
+
 test('only places glyphs the font defines', () => {
   const defined = new Set(bitmaps.flatMap(provider => provider.chars));
-  const placed = [
-    ...layout.panel_a, ...layout.panel_b, ...layout.vs_frames.flat(), ...layout.vs_a, ...layout.vs_b,
-    ...Object.values(layout.heads).flatMap(head => [...head.frame, ...head.rows.map(row => [row, 0])]),
-    ...Object.values(layout.names.chars).flatMap(chars => Object.values(chars).map(char => [char, 0])),
-  ];
-  for (const [char] of placed) {
+  const { spaces, advances, ...placements } = layout;
+  const placed = placedGlyphs(placements);
+  assert.ok(placed.length > 0);
+  for (const char of placed) {
     assert.ok(defined.has(char), `U+${char.codePointAt(0).toString(16)}`);
-    assert.ok(char in layout.advances, `no advance for U+${char.codePointAt(0).toString(16)}`);
+    assert.ok(char in advances, `no advance for U+${char.codePointAt(0).toString(16)}`);
   }
-  assert.deepEqual(layout.spaces, spaceProvider.advances);
+  assert.deepEqual(spaces, spaceProvider.advances);
+});
+
+test('cuts the card into strips that cover the screen top to bottom without gaps', () => {
+  const tops = layout.strips.map(strip => strip.top);
+  assert.deepEqual(tops, [...tops].sort((a, b) => a - b));
+  for (const strip of layout.strips) {
+    assert.ok(strip.direction === 1 || strip.direction === -1);
+    assert.ok(strip.left < -120 && strip.right > 120, `strip at ${strip.top} is too narrow`);
+  }
 });
