@@ -9,6 +9,8 @@ alone) and exports icons.yml, the name -> glyph list the MCDuels plugins ship.
 import json
 import os
 
+import generate_lang
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ICONS = os.path.join(ROOT, 'assets', 'mcduels', 'textures', 'icons')
 FONT = os.path.join(ROOT, 'assets', 'minecraft', 'font', 'default.json')
@@ -78,6 +80,7 @@ def main():
         for name, code in sorted({**LARGE_GLYPHS, **registry}.items(), key=lambda entry: entry[1]):
             target.write('  %s: "\\u%04X"\n' % (name, code))
     print('%d icons registered' % len(registry))
+    generate_lang.main()
 
 
 if __name__ == '__main__':
