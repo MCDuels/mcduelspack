@@ -15,6 +15,7 @@ import os
 
 from cutscene import geometry as g
 from cutscene.card import kit_card, mono_row, names, tag
+from cutscene.cinema import cinema
 from cutscene.faces import faces
 from cutscene.font_builder import FONT_KEY, FontBuilder
 from cutscene.impact import impact
@@ -45,6 +46,8 @@ def build(font):
         'tag': tag(font),
         'ranked': mono_row(font, 700, g.MONO_CAP, g.RANKED_BASELINE, g.TRACKING['ranked']),
         'footer': mono_row(font, 700, g.FOOTER_CAP, g.FOOTER_BASELINE, g.TRACKING['footer']),
+        # Drawn last so the card's code points stay where they were.
+        'cinema': cinema(font),
     }
 
 

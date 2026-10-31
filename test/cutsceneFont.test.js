@@ -62,3 +62,31 @@ test('cuts the card into strips that cover the screen top to bottom without gaps
     assert.ok(strip.left < -120 && strip.right > 120, `strip at ${strip.top} is too narrow`);
   }
 });
+
+function provider(char) {
+  return bitmaps.find(entry => entry.chars.includes(char));
+}
+
+test('closes the letterbox one unit at a time, each bar reaching the screen edge', () => {
+  const { steps, left, piece } = layout.cinema.letterbox;
+  assert.ok(steps.length > 1);
+  steps.forEach((step, index) => {
+    if (index > 0) assert.equal(step.edge, steps[index - 1].edge - 1);
+    const top = provider(step.top);
+    const bottom = provider(step.bottom);
+    assert.equal(-3 - top.ascent, -136, 'top bar starts at the top of the cover');
+    assert.equal(-3 - bottom.ascent, step.edge, 'bottom bar starts at the edge');
+    assert.equal(-3 - bottom.ascent + bottom.height, 136, 'bottom bar reaches the bottom of the cover');
+    assert.equal(layout.advances[step.top], piece + 1);
+  });
+  assert.ok(left <= -160 && left + 2 * piece >= 160, 'two pieces span the widest screen');
+});
+
+test('fades the cover in even steps, lightest first', () => {
+  const fade = layout.cinema.fade;
+  assert.equal(fade.length, 15);
+  fade.forEach(([char, x], index) => {
+    assert.equal(x, layout.cover.solid[1]);
+    assert.ok(provider(char).file.endsWith(`fade_${String(index + 1).padStart(2, '0')}.png`));
+  });
+});
