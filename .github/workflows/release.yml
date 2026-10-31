@@ -7,7 +7,7 @@ name: Release pack
 on:
   push:
     branches: [main]
-    paths: ['pack.mcmeta', 'pack.png', 'assets/**']
+    paths: ['pack.mcmeta', 'pack.png', 'assets/**', 'tools/build_pack.py']
   workflow_dispatch:
 
 permissions:
@@ -19,11 +19,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      # Lossless PNG re-encoding, minified JSON and zopfli zip compression (tools/build_pack.py).
       - name: Build zip
         run: |
-          files="pack.mcmeta assets"
-          [ -f pack.png ] && files="$files pack.png"
-          zip -qr -X mcduelspack.zip $files
+          pip install pyoxipng==9.1.1 zopfli==0.4.3 pillow==13.0.0
+          python tools/build_pack.py mcduelspack.zip
           echo "SHA1=$(sha1sum mcduelspack.zip | cut -d' ' -f1)" >> "$GITHUB_ENV"
 
       - name: Publish release
