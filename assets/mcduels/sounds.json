@@ -8,5 +8,25 @@
         "pitch": 1
         }
     ]
+  },
+  "music.duel_round": {
+    "sounds": [
+      {
+        "name": "mcduels:music/duel_round",
+        "stream": true
+      }
+    ]
+  },
+  "ui.queue_join": {
+    "sounds": ["mcduels:ui/queue_join"]
+  },
+  "ui.queue_leave": {
+    "sounds": ["mcduels:ui/queue_leave"]
+  },
+  "ui.countdown_tick": {
+    "sounds": ["mcduels:ui/countdown_tick"]
+  },
+  "ui.match_found": {
+    "sounds": ["mcduels:ui/match_found"]
   }
 }
