@@ -7348,101 +7348,11 @@
     },
     {
       "type": "bitmap",
-      "file": "mcduels:cutscene/letterbox_top_24.png",
-      "height": 133,
-      "ascent": 133,
-      "chars": [
-        "\ue345"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mcduels:cutscene/letterbox_bottom_24.png",
-      "height": 112,
-      "ascent": -27,
-      "chars": [
-        "\ue346"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mcduels:cutscene/letterbox_top_23.png",
-      "height": 133,
-      "ascent": 133,
-      "chars": [
-        "\ue347"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mcduels:cutscene/letterbox_bottom_23.png",
-      "height": 113,
-      "ascent": -26,
-      "chars": [
-        "\ue348"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mcduels:cutscene/letterbox_top_22.png",
-      "height": 133,
-      "ascent": 133,
-      "chars": [
-        "\ue349"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mcduels:cutscene/letterbox_bottom_22.png",
-      "height": 114,
-      "ascent": -25,
-      "chars": [
-        "\ue34a"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mcduels:cutscene/letterbox_top_21.png",
-      "height": 133,
-      "ascent": 133,
-      "chars": [
-        "\ue34b"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mcduels:cutscene/letterbox_bottom_21.png",
-      "height": 115,
-      "ascent": -24,
-      "chars": [
-        "\ue34c"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mcduels:cutscene/letterbox_top_20.png",
-      "height": 133,
-      "ascent": 133,
-      "chars": [
-        "\ue34d"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mcduels:cutscene/letterbox_bottom_20.png",
-      "height": 116,
-      "ascent": -23,
-      "chars": [
-        "\ue34e"
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "mcduels:cutscene/fade_01.png",
       "height": 272,
       "ascent": 133,
       "chars": [
-        "\ue34f"
+        "\ue345"
       ]
     },
     {
@@ -7451,7 +7361,7 @@
       "height": 272,
       "ascent": 133,
       "chars": [
-        "\ue350"
+        "\ue346"
       ]
     },
     {
@@ -7460,7 +7370,7 @@
       "height": 272,
       "ascent": 133,
       "chars": [
-        "\ue351"
+        "\ue347"
       ]
     },
     {
@@ -7469,7 +7379,7 @@
       "height": 272,
       "ascent": 133,
       "chars": [
-        "\ue352"
+        "\ue348"
       ]
     },
     {
@@ -7478,7 +7388,7 @@
       "height": 272,
       "ascent": 133,
       "chars": [
-        "\ue353"
+        "\ue349"
       ]
     },
     {
@@ -7487,7 +7397,7 @@
       "height": 272,
       "ascent": 133,
       "chars": [
-        "\ue354"
+        "\ue34a"
       ]
     },
     {
@@ -7496,7 +7406,7 @@
       "height": 272,
       "ascent": 133,
       "chars": [
-        "\ue355"
+        "\ue34b"
       ]
     },
     {
@@ -7505,7 +7415,7 @@
       "height": 272,
       "ascent": 133,
       "chars": [
-        "\ue356"
+        "\ue34c"
       ]
     },
     {
@@ -7514,7 +7424,7 @@
       "height": 272,
       "ascent": 133,
       "chars": [
-        "\ue357"
+        "\ue34d"
       ]
     },
     {
@@ -7523,7 +7433,7 @@
       "height": 272,
       "ascent": 133,
       "chars": [
-        "\ue358"
+        "\ue34e"
       ]
     },
     {
@@ -7532,7 +7442,7 @@
       "height": 272,
       "ascent": 133,
       "chars": [
-        "\ue359"
+        "\ue34f"
       ]
     },
     {
@@ -7541,7 +7451,7 @@
       "height": 272,
       "ascent": 133,
       "chars": [
-        "\ue35a"
+        "\ue350"
       ]
     },
     {
@@ -7550,7 +7460,7 @@
       "height": 272,
       "ascent": 133,
       "chars": [
-        "\ue35b"
+        "\ue351"
       ]
     },
     {
@@ -7559,7 +7469,7 @@
       "height": 272,
       "ascent": 133,
       "chars": [
-        "\ue35c"
+        "\ue352"
       ]
     },
     {
@@ -7568,745 +7478,745 @@
       "height": 272,
       "ascent": 133,
       "chars": [
-        "\ue35d"
+        "\ue353"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0041.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue35e"
+        "\ue354"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0042.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue35f"
+        "\ue355"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0043.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue360"
+        "\ue356"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0044.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue361"
+        "\ue357"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0045.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue362"
+        "\ue358"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0046.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue363"
+        "\ue359"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0047.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue364"
+        "\ue35a"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0048.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue365"
+        "\ue35b"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0049.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue366"
+        "\ue35c"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_004a.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue367"
+        "\ue35d"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_004b.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue368"
+        "\ue35e"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_004c.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue369"
+        "\ue35f"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_004d.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue36a"
+        "\ue360"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_004e.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue36b"
+        "\ue361"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_004f.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue36c"
+        "\ue362"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0050.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue36d"
+        "\ue363"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0051.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue36e"
+        "\ue364"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0052.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue36f"
+        "\ue365"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0053.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue370"
+        "\ue366"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0054.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue371"
+        "\ue367"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0055.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue372"
+        "\ue368"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0056.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue373"
+        "\ue369"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0057.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue374"
+        "\ue36a"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0058.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue375"
+        "\ue36b"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0059.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue376"
+        "\ue36c"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_005a.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue377"
+        "\ue36d"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0030.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue378"
+        "\ue36e"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0031.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue379"
+        "\ue36f"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0032.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue37a"
+        "\ue370"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0033.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue37b"
+        "\ue371"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0034.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue37c"
+        "\ue372"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0035.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue37d"
+        "\ue373"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0036.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue37e"
+        "\ue374"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0037.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue37f"
+        "\ue375"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0038.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue380"
+        "\ue376"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_0039.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue381"
+        "\ue377"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_002e.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue382"
+        "\ue378"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/geistmono_700_24_8_3_002d.png",
       "height": 3,
-      "ascent": -8,
+      "ascent": -13,
       "chars": [
-        "\ue383"
+        "\ue379"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0041.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue384"
+        "\ue37a"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0042.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue385"
+        "\ue37b"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0043.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue386"
+        "\ue37c"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0044.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue387"
+        "\ue37d"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0045.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue388"
+        "\ue37e"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0046.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue389"
+        "\ue37f"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0047.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue38a"
+        "\ue380"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0048.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue38b"
+        "\ue381"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0049.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue38c"
+        "\ue382"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_004a.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue38d"
+        "\ue383"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_004b.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue38e"
+        "\ue384"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_004c.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue38f"
+        "\ue385"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_004d.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue390"
+        "\ue386"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_004e.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue391"
+        "\ue387"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_004f.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue392"
+        "\ue388"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0050.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue393"
+        "\ue389"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0051.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue394"
+        "\ue38a"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0052.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue395"
+        "\ue38b"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0053.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue396"
+        "\ue38c"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0054.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue397"
+        "\ue38d"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0055.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue398"
+        "\ue38e"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0056.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue399"
+        "\ue38f"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0057.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue39a"
+        "\ue390"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0058.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue39b"
+        "\ue391"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0059.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue39c"
+        "\ue392"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_005a.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue39d"
+        "\ue393"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0030.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue39e"
+        "\ue394"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0031.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue39f"
+        "\ue395"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0032.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue3a0"
+        "\ue396"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0033.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue3a1"
+        "\ue397"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0034.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue3a2"
+        "\ue398"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0035.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue3a3"
+        "\ue399"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0036.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue3a4"
+        "\ue39a"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0037.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue3a5"
+        "\ue39b"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0038.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue3a6"
+        "\ue39c"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_0039.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue3a7"
+        "\ue39d"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/anton-regular_r_40_0_6_005f.png",
       "height": 6,
-      "ascent": -12,
+      "ascent": -17,
       "chars": [
-        "\ue3a8"
+        "\ue39e"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/bar_1x1_1.png",
       "height": 1,
-      "ascent": -19,
+      "ascent": -24,
       "chars": [
-        "\ue3a9"
+        "\ue39f"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/bar_2x1_1.png",
       "height": 1,
-      "ascent": -19,
+      "ascent": -24,
       "chars": [
-        "\ue3aa"
+        "\ue3a0"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/bar_4x1_1.png",
       "height": 1,
-      "ascent": -19,
+      "ascent": -24,
       "chars": [
-        "\ue3ab"
+        "\ue3a1"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/bar_8x1_1.png",
       "height": 1,
-      "ascent": -19,
+      "ascent": -24,
       "chars": [
-        "\ue3ac"
+        "\ue3a2"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/bar_16x1_1.png",
       "height": 1,
-      "ascent": -19,
+      "ascent": -24,
       "chars": [
-        "\ue3ad"
+        "\ue3a3"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/bar_32x1_1.png",
       "height": 1,
-      "ascent": -19,
+      "ascent": -24,
       "chars": [
-        "\ue3ae"
+        "\ue3a4"
       ]
     },
     {
       "type": "bitmap",
       "file": "mcduels:cutscene/bar_64x1_1.png",
       "height": 1,
-      "ascent": -19,
+      "ascent": -24,
       "chars": [
-        "\ue3af"
+        "\ue3a5"
       ]
     }
   ]

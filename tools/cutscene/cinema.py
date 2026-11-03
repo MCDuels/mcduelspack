@@ -2,9 +2,9 @@
 
 The bars slide in from the screen edges one unit at a time, so each step is its own glyph pair. A
 title is the same size in units at every window size, so the bars are tuned for the automatic GUI
-scale (about 30 to 34 units from the centre to the top edge): they reach 20 units from the centre
-when closed, a wide cinema frame, and start just past the edge. The caption sits just above the
-bottom bar. The fades are the full-screen cover at lower opacities,
+scale (about 30 to 34 units from the centre to the top edge): they reach 25 units from the centre
+when closed, a 2.39:1 frame on a 1080p screen, and start just past the edge. The caption sits just
+above the bottom bar. The fades are the full-screen cover at lower opacities,
 tinted ink by the backend for dips to black.
 """
 from PIL import Image
@@ -15,14 +15,14 @@ from .panels import bars
 from .type_sets import DISPLAY_CHARS, MONO_CHARS, anton, geist_mono, text_row
 
 LETTERBOX_OPEN = 34
-LETTERBOX_CLOSED = 20
+LETTERBOX_CLOSED = 25
 BAR_PIECE_WIDTH = 170
 FADE_LEVELS = 16
 
 CAPTION_NAME_CAP = 5
-CAPTION_NAME_BASELINE = 14
-CAPTION_LABEL_BASELINE = 7
-CAPTION_RULE_TOP = 16
+CAPTION_NAME_BASELINE = 19
+CAPTION_LABEL_BASELINE = 12
+CAPTION_RULE_TOP = 21
 
 
 def _bar(font, name, top, bar_height, glyph_height):
